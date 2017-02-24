@@ -1,0 +1,15 @@
+doctype
+html
+  head
+    link(rel="stylesheet" href="css/main.css")
+    meta(charset="utf8")
+    title #{ siteTitle }
+  body
+    != partial("partial/_header")    
+    
+    != yield    
+    
+    != partial("partial/_footer")
+  
+  script(src="/js/main.js")
+  script(src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js")

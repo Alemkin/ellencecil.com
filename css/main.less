@@ -1,13 +1,50 @@
-body{
+@border-gray: #cccccc;
+@site-background: #f4f4f7;
+@site-font-color: #444;
+
+@hover-color: #27b7a5;
+
+body {
   font-family: "Helvetica";
   text-align: center;
-  padding: 50px 20px 0;
-  background: #f4f4f7;
-  color: #444;
+  background: @site-background;
+  color: @site-font-color;
   margin: 0;
 }
 
-h1{
-  border-bottom: #CCC solid 1px;
-  padding: 20px 0;
+.site-header {
+  text-align: center;
+  border: solid 1px @border-gray;
+  padding-top: 38px;
+  margin: 2em 63px;
+  .site-header-title {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 70px;
+    padding-bottom: 30px;
+  }
+
+  .site-header-links {
+    .site-header-link {
+      text-decoration: none;
+      margin: 0 10px;
+      color: @site-font-color;
+      &:hover {
+        color: @hover-color;
+        cursor: pointer;
+      }
+    }
+  }
+}
+
+.image-block {
+  .image {
+    width: 48%;
+    margin: 5px;
+  }
+}
+
+.footer {
+  text-align: center;
+  font-size: 12px;
+  padding-top: 5em;  
 }

@@ -2,6 +2,9 @@ doctype
 html
   head
     link(rel="stylesheet" href="css/main.css")
+    link(rel="stylesheet" href="css/bootstrap.min.css")
+    link(href="/css/font-awesome.min.css" rel="stylesheet")
+    link(href="https://fonts.googleapis.com/css?family=Fredericka+the+Great" rel="stylesheet")
     meta(charset="utf8")
     title #{ siteTitle }
   body
@@ -10,6 +13,7 @@ html
     != yield    
     
     != partial("partial/_footer")
-  
+
   script(src="/js/main.js")
-  script(src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js")
+  script(src="//ajax.googleapis.com/ajax/libs/jquery/1.12.1/jquery.min.js")
+  script(src="/js/bootstrap.min.js")

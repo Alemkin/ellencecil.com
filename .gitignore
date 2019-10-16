@@ -1,1 +1,13 @@
-/node_modules
+.vscode/
+node/
+node_modules/
+/test/results
+npm-debug.log
+.tmp/
+stats.json
+/dist
+/build
+storybook-static
+.vs/
+obj/
+bin/

@@ -1,0 +1,35 @@
+@import "../../style/variables.scss";
+
+.header {
+  padding: 1rem;
+  text-align: center;
+  border: solid 2px $themeFontColor;
+  padding-top: 38px;
+  margin: 3rem 0;
+
+  @media only screen and (min-width: 769px) {
+    margin: 3rem;
+  }
+
+  .header-title {
+    font-family: 'Damion', cursive;
+    font-size: 87px;
+    padding-bottom: 30px;
+
+    &:hover {
+      color: $themeFontColor;
+      cursor: pointer;
+    }
+  }
+
+  .header-links {
+    .header-link {
+      text-decoration: none;
+      margin: 0 10px;
+
+      &.selected {
+        color: $themeAccentColor;
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "LoadingIcon": {
+    "loading": "LOADING ..."
+  },
+  "Header": {
+    "title": "Ellen Cecil-Lemkin"
+  },
+  "NotFound": {
+    "notfound": "This Page Was Not Found",
+    "return": "Back To Home"
+  }
+}

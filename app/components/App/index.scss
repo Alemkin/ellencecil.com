@@ -1,0 +1,36 @@
+@import "../../style/variables.scss";
+
+.ellen-main {
+  background: $themeBackground;
+
+  .page-wrapper {
+    h1 {
+      color: $themeAccentColor;
+    }
+
+    img {
+      -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+      filter: grayscale(100%);
+
+      @media only screen and (max-width: 767px) {
+        width: 100%;
+      }
+    }
+  }
+}
+
+body {
+  background: $themeBackground;
+  color: $themeFontColor;
+
+  a {
+    text-decoration: none;
+    color: $themeFontColor;
+
+    &:hover {
+      text-decoration: none;
+      color: $themeAccentColor;
+      cursor: pointer;
+    }
+  }
+}

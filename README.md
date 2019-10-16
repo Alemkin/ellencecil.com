@@ -1,2 +1,2 @@
-# gamingeverafter.com
-code for blogging on gamingeverafter.com
+# ellencecil.com
+code for Ellen's professional website

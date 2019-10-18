@@ -4,10 +4,10 @@ import './index.scss'
 
 const Biography = () =>
   <Row className='biography mt-4 page-wrapper' tag={'main'}>
-    <Col xs={12} xl={6} className='text-center'>
+    <Col xs={12} xl={4} className='text-center'>
       <img title='Ellen and Rosie the service dog' alt='Ellen smiles into the camera, kneeling down next to her great pyrynees service dog' src={require('../../../images/biopic.png')} />
     </Col>
-    <Col xs={12} xl={6}>
+    <Col xs={12} xl={8}>
       <h4>{'Ph.D. Rhetoric and Composition Graduate Student Florida State University'}</h4>
       <br />
       <p>

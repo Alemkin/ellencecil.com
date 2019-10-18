@@ -5,7 +5,7 @@ import './index.scss'
 const WritingCenter = () =>
   <Row className='writing-center mt-4 page-wrapper' tag={'main'}>
     <Col xs={12} xl={4} className='text-center'>
-      <img title='Service Dog Rosie is a Tutor' alt='Rosie the service dog looks into the camera with a dog grim, and a sign in front of her that says Reading and Writing Tutor' src={require('../../../images/rosietutor.png')} />
+      <img title='Service Dog Rosie is a Tutor' alt='Rosie the service dog looks into the camera with a dog grin, and a sign in front of her that says "Reading and Writing Tutor"' src={require('../../../images/rosietutor.png')} />
     </Col>
     <Col xs={12} xl={8}>
       <p>

@@ -9,6 +9,8 @@ import './service'
 import './sagas'
 
 import '../images/favicon.ico'
+import '../observations/nov302017tutor.pdf'
+import '../observations/oct262016tutor.pdf'
 
 import { initTranslator } from './utils/translate'
 initTranslator()

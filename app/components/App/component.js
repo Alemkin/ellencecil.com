@@ -6,6 +6,7 @@ import Footer from '../Footer'
 import Biography from '../Biography'
 import WritingCenter from '../WritingCenter'
 import Scholarship from '../Scholarship'
+import CurriculumVitae from '../CurriculumVitae'
 import NotFound from '../NotFound'
 import './index.scss'
 
@@ -23,6 +24,7 @@ const App = () =>
             <Route exact path='/' component={Biography} />
             <Route exact path='/writingcenter' component={WritingCenter} />
             <Route exact path='/scholarship' component={Scholarship} />
+            <Route exact path='/cv' component={CurriculumVitae} />
             <Route path='' component={NotFound} />
           </Switch>
         </Col>

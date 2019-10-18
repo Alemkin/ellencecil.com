@@ -80,7 +80,7 @@ const WritingCenter = () =>
         {'EGSA Spring Conference. Tampa, Florida. April 2016.'}
       </p>
       <p>
-        <a href='http://buildingcollaborativecommunities.wordpress.com/' target='_blank'>
+        <a href='https://buildingcollaborativecommunities.wordpress.com/' target='_blank'>
           {'“'}
           <u>
             {'Building Collaborative Communities: Empowering Students through Community-Engaged Writing'}
@@ -110,7 +110,7 @@ const WritingCenter = () =>
         {'MEGAA Symposium. Oxford, Ohio. March 2015.'}
       </p>
       <p>
-        <a href='http://prezi.com/a8av8mzxn7ri/?utm_campaign=share&utm_medium=copy' target='_blank'>
+        <a href='https://prezi.com/a8av8mzxn7ri/?utm_campaign=share&utm_medium=copy' target='_blank'>
           {'“'}
           <u>
             {'Climbing Up the Vine'}

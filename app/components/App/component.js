@@ -4,6 +4,7 @@ import { Switch, Route } from 'react-router-dom'
 import Header from '../Header'
 import Footer from '../Footer'
 import Biography from '../Biography'
+import WritingCenter from '../WritingCenter'
 import NotFound from '../NotFound'
 import './index.scss'
 
@@ -19,6 +20,7 @@ const App = () =>
         <Col xs={12} xl={{ size: 8, offset: 2 }}>
           <Switch>
             <Route exact path='/' component={Biography} />
+            <Route exact path='/writingcenter' component={WritingCenter} />
             <Route path='' component={NotFound} />
           </Switch>
         </Col>

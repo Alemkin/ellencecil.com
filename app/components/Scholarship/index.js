@@ -7,7 +7,7 @@ const WritingCenter = () =>
     <Col xs={12} xl={6}>
       <h1>{'Scholarship'}</h1>
 
-      <h6>{'Disability'}</h6>
+      <h6><b>{'Disability'}</b></h6>
       <p>{'Cecil-Lemkin, Ellen. “Human-Animal Entanglements: Navigating Access with an Emotional Support Animal.” (Under Review)'}</p>
       <p>{'Cecil-Lemkin, Ellen and Michael Neal. “Moving Towards Accessibility: Addressing Two Myths of Universal Access in Online Instruction.” (Proposal Accepted)'}</p>
       <p>{'“Considering Collaboration through a Disability Perspective.” Feminisms and Rhetorics. Harrisonburg, VA. November 2019.'}</p>
@@ -25,7 +25,7 @@ const WritingCenter = () =>
         {'Disability Roundtable. Survive & Thrive. Online. April 2017.'}
       </p>
 
-      <h6>{'Collaboration'}</h6>
+      <h6><b>{'Collaboration'}</b></h6>
       <p>{'“Writing Together: Students’ Perceptions on Collaboration.” Thomas R. Watson Conference. Louisville, KY. October 2018.'}</p>
       <p>
         <a href='https://prezi.com/view/cveTGJGGGHRSORxFg0Vc/' target='_blank'>
@@ -79,7 +79,7 @@ const WritingCenter = () =>
         {'MEGAA Symposium. Oxford, Ohio. March 2015.'}
       </p>
 
-      <h6>{'Writing Programs'}</h6>
+      <h6><b>{'Writing Programs'}</b></h6>
       <p>{'Cecil-Lemkin, Ellen, Jennifer Enoch, Megan Keaton, and Travis Maynard. “Archival Internships as Techne: Teaching the Archive through the Museum of Everyday Writing’s Undergraduate Internship.” Teaching Rhetoric and Composition Through the Archives, edited by Tarez Samra Graban and Wendy Hayden. (Accepted Manuscript)'}</p>
       <p>{'Cecil-Lemkin, Ellen. “Managing Power: Collaborative Models of Writing Program Administration.” (In Progress)'}</p>
       <p>{'“Decoding [Academic] Systems: Writing Centers as Mentorship Sites." International Writing Center Association Annual Conference. Chicago, IL. November 2017.'}</p>
@@ -94,7 +94,7 @@ const WritingCenter = () =>
         {'Conference on College Composition and Communication. Portland, Oregon. March 2017.'}
       </p>
 
-      <h6>{'Embodied Rhetoric'}</h6>
+      <h6><b>{'Embodied Rhetoric'}</b></h6>
       <p>{'Cecil-Lemkin, Ellen and Kyllikki Rytov. “An Ethic of Rhetorical Touch: Intentional Strategies for Embodied Teaching.” (In Progress)'}</p>
       <p>{'"Invoking the Body: Touch and Making Meaning." Feminisms and Rhetorics. Dayton, OH. October 2017.'}</p>
     </Col>

@@ -8,10 +8,10 @@ const Biography = () =>
       <img title='Ellen and Rosie the service dog' alt='Ellen smiles into the camera, kneeling down next to her great pyrenees service dog' src={require('../../../images/biopic.png')} />
     </Col>
     <Col xs={12} xl={8}>
-      <h4>{'Ph.D. Rhetoric and Composition Graduate Student Florida State University'}</h4>
+      <h4>{'Disability and Collaboration Scholar in Rhetoric and Composition'}</h4>
       <br />
       <p>
-        <a className='d-block' href='mailto:emc15j@my.fsu.edu'>{'emc15j@my.fsu.edu'}</a>
+        <a href='mailto:emc15j@my.fsu.edu'>{'emc15j@my.fsu.edu'}</a>
       </p>
       <p>
         {'My research agenda focuses on creating accessible environments with an emphasis on collaborative spaces for disabled students. While much of the accessibility research in composition emphasizes physical disabilities such as sight, hearing, or mobility, my project examines ways in which collaboration in composition classrooms has ignored the experiences of neurodiverse students, which includes anxiety, depression, autism, ADHD, and other related disabilities. As these disabilities tend to be more private, my own experiences as neurodiverse have become visible through my use of a service animal. This increased visibility has resulted in my public identification as disabled as well as my advocacy for other disabled academics and students (see my '}

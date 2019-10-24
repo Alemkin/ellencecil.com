@@ -16,7 +16,11 @@ const WritingCenter = () =>
       </p>
       <p>
         {'Please look below for links to a few observation letters written about my tutoring:'}
+      </p>
+      <p>
         <a href='/observations/oct262016tutor.pdf' target='_blank'>{'Writing Center Observation October 26, 2016'}</a>
+      </p>
+      <p>
         <a href='/observations/nov302017tutor.pdf' target='_blank'>{'Writing Center Observation November 30, 2017'}</a>
       </p>
     </Col>

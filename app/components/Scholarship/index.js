@@ -14,16 +14,7 @@ const WritingCenter = () =>
       <p>{'“Have Dog, Will Tutor: An Autoethnographic Account of Tutoring with a Service Animal.” International Writing Center Association Annual Conference. Atlanta, GA. October 2018.'}</p>
       <p>{'“Human-Animal Entanglements: Reflections on Training a Service Animal.” Critical Disability Studies Student Association Conference. York University, Canada. April 2018.'}</p>
       <p>{'“Restrictions on Language for a Disabled Graduate Student.” Conference on College Composition and Communication. Kansas City, MO. March 2018.'}</p>
-      <p>
-        <a href='http://scsuconnect.stcloudstate.edu/p5h32y3zc4c/' target='_blank'>
-          {'“'}
-          <u>
-            {'“Madness in Academia: Stories and Sense-making from Neurodiverse Perspectives'}
-          </u>
-          {'.”'}
-        </a>
-        {'Disability Roundtable. Survive & Thrive. Online. April 2017.'}
-      </p>
+      <p>{'“Madness in Academia: Stories and Sense-making from Neurodiverse Perspectives.” Disability Roundtable. Survive &amp; Thrive. Online. April 2017.'}</p>
 
       <h6><b>{'Collaboration'}</b></h6>
       <p>{'“Writing Together: Students’ Perceptions on Collaboration.” Thomas R. Watson Conference. Louisville, KY. October 2018.'}</p>

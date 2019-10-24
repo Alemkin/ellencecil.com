@@ -59,16 +59,7 @@ const CurriculumVitae = () =>
         </a>
         <i>{'Computers and Writing.'}</i> {' Findlay, OH. June 2017'}
       </p>
-      <p>
-        <a href='http://scsuconnect.stcloudstate.edu/p5h32y3zc4c/' target='_blank'>
-          {'“'}
-          <u>
-            {'Madness in Academia: Stories and Sense-making from Neurodiverse Perspectives'}
-          </u>
-          {'.”'}
-        </a>
-        {'Disability Roundtable.'} <i>{' Survive & Thrive.'}</i> {' Online. April 2017.'}
-      </p>
+      <p>{'“Madness in Academia: Stories and Sense-making from Neurodiverse Perspectives.” Disability Roundtable.'} <i>{' Survive & Thrive.'}</i> {' Online. April 2017.'}</p>
       <p>
         <a href='https://drive.google.com/open?id=1OwkwgGStU6fztGIJO3ZpIyZ4PdcIjCceOd0mp7K8UOA' target='_blank'>
           {'“'}

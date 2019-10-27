@@ -1,0 +1,18 @@
+@import "../../style/variables.scss";
+
+.teaching {
+  a {
+    text-decoration: underline;
+    color: $themeAccentColor;
+  }
+
+  .course-content {
+    li {
+      list-style-type: none;
+    }
+
+    a {
+      color: $themeFontColor;
+    }
+  }
+}

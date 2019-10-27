@@ -129,74 +129,74 @@ const CurriculumVitae = () =>
       <p>{'“Collaborative Tools in Writing Classes: How to Make Digital Meaning Together.” Digital Writing Collaborative. Miami University. March 2015.'}</p>
 
       <h6>{'Teaching Experience'}</h6>
-      <p>
+      <div>
         <span className='d-block'>{'ENC 3416: Writing and Editing for Print and Online'}</span>
         <span className='d-block'>{'Florida State University, Fall 2018, Spring 2019, Summer 2019, & Fall 2019'}</span>
         <ul>
           <li>{'Teach junior and senior students in the major the principles of composing and rhetoric, especially the ways they function across different composing spaces'}</li>
         </ul>
-      </p>
-      <p>
+      </div>
+      <div>
         <span className='d-block'>{'ENC 3493: Peer Tutoring in the Reading Writing Center and Digital Studio'}</span>
         <span className='d-block'>{'Florida State University, Fall 2017 & Spring 2018'}</span>
         <ul>
           <li>{'Prepared undergraduate majors for tutoring in the writing center and consulting in the digital studio'}</li>
         </ul>
-      </p>
-      <p>
+      </div>
+      <div>
         <span className='d-block'>{'ENC 2135: Research, Genre, and Context'}</span>
         <span className='d-block'>{'Florida State University, Fall 2015, Spring 2016, Summer 2016, & Fall 2019 (online)'}</span>
         <ul>
           <li>{'Sophomore level composition course, focused on teaching rhetorical context and genre conventions with particular attention to transfer to classes within students’ majors'}</li>
         </ul>
-      </p>
-      <p>
+      </div>
+      <div>
         <span className='d-block'>{'ENG 112: Composition and Literature'}</span>
         <span className='d-block'>{'Miami University, Spring 2014 & 2015'}</span>
         <ul>
           <li>{'First-year composition course emphasizing writing and reading on a special literature topic'}</li>
         </ul>
-      </p>
-      <p>
+      </div>
+      <div>
         <span className='d-block'>{'ENG 111: Composition and Rhetoric'}</span>
         <span className='d-block'>{'Miami University, Fall 2013 & 2014'}</span>
         <ul>
           <li>{'First-year composition course with an emphasis on teaching rhetorical awareness'}</li>
         </ul>
-      </p>
+      </div>
 
       <h6>{'Administration'}</h6>
-      <p>
+      <div>
         {'Coordinator, Florida State University, Reading and Writing Center, Aug. 2017 – May 2019'}
         <ul>
           <li>{'Managed undergraduate and graduate tutor schedules '}</li>
           <li>{'Scheduled enrolled tutees appointments '}</li>
           <li>{'Planned and participate in bi-weekly staff development'}</li>
         </ul>
-      </p>
-      <p>
+      </div>
+      <div>
         {'Rhetoric and Composition Program Assistant, Florida State University, Rhetoric and Composition Program, Aug. 2016 – Apr. 2017'}
         <ul>
           <li>{'Planned visiting speaker’s visits, created promotional material, and assisted with event coordination'}</li>
           <li>{'Coordinated all program related events'}</li>
           <li>{'Maintained and updated program’s website'}</li>
         </ul>
-      </p>
-      <p>
+      </div>
+      <div>
         {'Administrator, Florida State University, Museum of Everyday Writing, May 2016 – Dec. 2017'}
         <ul>
           <li>{'Maintained Museum’s updates and communications'}</li>
           <li>{'Recruited students to participate in Museum internship'}</li>
           <li>{'Oversaw undergraduate interns’ work and projects for Museum'}</li>
         </ul>
-      </p>
-      <p>
+      </div>
+      <div>
         {'Administrative Graduate Assistant, Miami University, Center for Civic Engagement, Jan. 2014 – Aug. 2014'}
         <ul>
           <li>{'Developed material and train 10 undergraduate Regional Fellows for the Study of the United States Institute for Student Leaders (SUSI)'}</li>
           <li>{'Assumed administrative, counseling, and programming responsibilities for 20 undergraduate international students and 10 Regional Fellows for SUSI'}</li>
         </ul>
-      </p>
+      </div>
 
       <h6>{'Service'}</h6>
       <p>{'Accessibility Committee Member, Writing Program Administrators—Graduate Organization, Sept. 2019 – Present'}</p>

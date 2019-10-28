@@ -1,0 +1,8 @@
+@import "../../style/variables.scss";
+
+.student-feedback {
+  a {
+    text-decoration: underline;
+    color: $themeAccentColor;
+  }
+}

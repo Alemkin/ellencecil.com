@@ -1,0 +1,14 @@
+@import "../../style/variables.scss";
+
+.enc-3493 {
+  a {
+    text-decoration: underline;
+    color: $themeFontColor;
+  }
+
+  .course-content {
+    li {
+      list-style-type: none;
+    }
+  }
+}

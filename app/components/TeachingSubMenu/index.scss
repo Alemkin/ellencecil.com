@@ -1,0 +1,21 @@
+@import "../../style/variables.scss";
+
+.teaching-sub-menu-links {
+  .sub-link {
+    padding-right: 3rem;
+    display: inline-block;
+    text-decoration: underline;
+
+    &.selected {
+      color: $themeAccentColor;
+    }
+
+    @media only screen and (max-width: 767px) {
+      display: block;
+    }
+
+    .title {
+      font-size: 20px;
+    }
+  }
+}

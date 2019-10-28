@@ -122,12 +122,6 @@ const Teaching = () =>
             {'The approach to tutoring discussed and explored focuses on providing audience-based feedback to students that allows them the opportunity to grow as writers, readers, and critical thinkers. Peer tutors in the Florida State University Reading and Writing Centers and Digital Studios provide guidance, feedback, and encouragement to help students understand options for completing writing assignments, becoming aware of the tools that improve writing, and building their confidence as writers.'}
           </p>
         </Col>
-        {/*
-import '../enc3493course/calendar.pdf'
-import '../enc3493course/sample1.pdf'
-import '../enc3493course/sample2.pdf'
-import '../enc3493course/sample3.pdf'
-import '../enc3493course/syllabus.pdf' */}
         <Col className='course-content' xs={12} md={4}>
           <h5>{'Course Content'}</h5>
           <div><a href='/enc3493course/syllabus.pdf' target='_blank'>{'Course Policy Sheet'}</a></div>

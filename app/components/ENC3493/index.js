@@ -7,19 +7,8 @@ const ENC3493 = () =>
     <Col xs={12}><h2>{'ENC 3493: Peer Tutoring'}</h2></Col>
     <Col xs={12} lg={8}>
       <img className='w-100' alt='An empty room with furniture set up for tutoring' src={require('../../../images/tutorcenter.png')} />
-      <h5>{'Course Description'}</h5>
-      <p>
-        {'This class explores acts of reading, writing, and composition: the people who do it, how they do it, and how to help others do it. The goals of this course ask that you:'}
-      </p>
-      <ul>
-        <li>{'Develop an understanding of writing theory and practice based on both course readings and personal experience.'}</li>
-        <li>{'Explore how learners approach writing, why these approaches are highly individualized, and how the writing center fits into the writing process.'}</li>
-        <li>{'Discuss theory and practice revolving around assisting the students that commonly utilize the Reading and Writing Center, with special attention paid to the international and multilingual reach of FSU’s student population.'}</li>
-        <li>{'Select an area of focus in writing tutoring and devote special attention to this area throughout the course.'}</li>
-        <li>{'Develop skills as a tutor, through mentorship with a current tutor and tutoring individually in the FSU Reading and Writing Center or Digital Studio.'}</li>
-      </ul>
-      <p>
-        {'The approach to tutoring discussed and explored focuses on providing audience-based feedback to students that allows them the opportunity to grow as writers, readers, and critical thinkers. Peer tutors in the Florida State University Reading and Writing Centers and Digital Studios provide guidance, feedback, and encouragement to help students understand options for completing writing assignments, becoming aware of the tools that improve writing, and building their confidence as writers.'}
+      <p className='mt-4'>
+        {'ENC 3493: Peer Tutoring in the Reading-Writing Center is the first step students must take before they are allowed to tutor in the RWC for internship credit. As such, this course is designed to immerse potential new tutors in writing and writing center theory, with a strong focus on the practical application of these theories to their tutoring practices. My goal for this course was to expose students to a variety of different types of students and situations that they may encounter in the writing center. While the course readings are significant for establishing their initial understanding of these concepts, I felt that the detailed reflection I weaved throughout the course was particularly important. One of the ways I had students reflect on their tutoring sessions or observations was through in-class reflection. During the beginning of the class, I had students talk about the successes and challenges they faced during the week. When students encounter challenges, I encouraged the class to brainstorm various approaches they could take if they were to find themselves in that situation. This type of structured reflection prepared the new tutors for new encounters and to critically think about the choices they make during their sessions.'}
       </p>
     </Col>
     <Col className='course-content' xs={12} md={4}>

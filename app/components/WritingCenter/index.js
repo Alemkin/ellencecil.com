@@ -4,10 +4,10 @@ import './index.scss'
 
 const WritingCenter = () =>
   <Row className='writing-center mt-4 page-wrapper' tag={'main'}>
-    <Col xs={12} xl={4} className='text-center'>
+    <Col xs={12} xl={5} className='text-center'>
       <img title='Service Dog Rosie is a Tutor' alt='Rosie the service dog looks into the camera with a dog grin, and a sign in front of her that says "Reading and Writing Tutor"' src={require('../../../images/rosietutor.png')} />
     </Col>
-    <Col xs={12} xl={8}>
+    <Col xs={12} xl={7}>
       <p>
         {'I started working in writing centers when I was an undergraduate at University of Central Florida (UCF). I worked at the University Writing Center (UWC) at UCF for two years as a tutor. During my time at the UWC, I fell in love with working one-on-one with students to develop their skills in writing. Later, I was advanced to the position of Mentor Tutor and I took on formal and informal training responsibilities for new tutors. My passion for working with and mentoring students spurred me to seek out advanced degrees that had an emphasis on teaching. When I found myself at Florida State University (FSU), I again sought out opportunities to work as a tutor. This lead to my assistantship with the Reading Writing Center as a tutor, and later, as the Coordinator for the RWC.'}
       </p>

@@ -19,7 +19,7 @@ import './index.scss'
 const App = () =>
   <div className='ellen-main'>
     <Container fluid>
-      <Row>
+      <Row className='header-area mb-2'>
         <Col xs={12} xl={{ size: 8, offset: 2 }}>
           <Route path='/' component={Header} />
         </Col>

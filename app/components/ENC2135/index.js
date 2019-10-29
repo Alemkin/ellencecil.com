@@ -39,12 +39,6 @@ const ENC2135 = () =>
       <h5>{'Course Content'}</h5>
       <div><a href='/enc2135course/syllabus.pdf' target='_blank'>{'Course Policy Sheet'}</a></div>
       <div><a href='/enc2135course/calendar.pdf' target='_blank'>{'Calendar'}</a></div>
-      <div>{'Grading Rubrics'}</div>
-      <ul>
-        <li><a href='/enc2135course/rubric1.pdf' target='_blank'>{'Project 1'}</a></li>
-        <li><a href='/enc2135course/rubric2.pdf' target='_blank'>{'Project 2'}</a></li>
-        <li><a href='/enc2135course/rubric3.pdf' target='_blank'>{'Project 3'}</a></li>
-      </ul>
       <div>{'Sample Student Papers'}</div>
       <ul>
         <li><a href='/enc2135course/sample1.pdf' target='_blank'>{'Project 1'}</a></li>

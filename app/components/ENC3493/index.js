@@ -38,12 +38,6 @@ const ENC3493 = () =>
         </li>
         <li><a href='/enc3493course/sample3.pdf' target='_blank'>{'Project Three'}</a></li>
       </ul>
-      <div>{'Sample In-Class Activities:'}</div>
-      <ul>
-        <li>{'Activity One'}</li>
-        <li>{'Activity Two'}</li>
-        <li>{'Activity Three'}</li>
-      </ul>
     </Col>
   </Row>
 

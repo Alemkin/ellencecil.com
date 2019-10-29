@@ -2,7 +2,6 @@
 
 .teaching-sub-menu-links {
   .sub-link {
-    padding-right: 3rem;
     display: inline-block;
     text-decoration: underline;
 
@@ -12,6 +11,10 @@
 
     @media only screen and (max-width: 767px) {
       display: block;
+    }
+
+    @media only screen and (min-width: 768px) {
+      margin-right: 3rem;
     }
 
     .title {

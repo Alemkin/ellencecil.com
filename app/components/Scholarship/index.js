@@ -10,7 +10,16 @@ const WritingCenter = () =>
       <h6><b>{'Disability'}</b></h6>
       <p>{'Cecil-Lemkin, Ellen. “Human-Animal Entanglements: Navigating Access with an Emotional Support Animal.” (Under Review)'}</p>
       <p>{'Cecil-Lemkin, Ellen and Michael Neal. “Moving Towards Accessibility: Addressing Two Myths of Universal Access in Online Instruction.” (Proposal Accepted)'}</p>
-      <p>{'“Considering Collaboration through a Disability Perspective.” Feminisms and Rhetorics. Harrisonburg, VA. November 2019.'}</p>
+      <p>
+        <a href='/scholarship/femrhetpresentationtranscript.pdf' target='_blank'>
+          {'“'}
+          <u>
+            {'Considering Collaboration through a Disability Perspective'}
+          </u>
+          {'.”'}
+        </a>
+        {' Feminisms and Rhetorics. Harrisonburg, VA. November 2019'}
+      </p>
       <p>{'“Have Dog, Will Tutor: An Autoethnographic Account of Tutoring with a Service Animal.” International Writing Center Association Annual Conference. Atlanta, GA. October 2018.'}</p>
       <p>{'“Human-Animal Entanglements: Reflections on Training a Service Animal.” Critical Disability Studies Student Association Conference. York University, Canada. April 2018.'}</p>
       <p>{'“Restrictions on Language for a Disabled Graduate Student.” Conference on College Composition and Communication. Kansas City, MO. March 2018.'}</p>

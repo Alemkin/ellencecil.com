@@ -42,7 +42,16 @@ const CurriculumVitae = () =>
       <p>{'Cecil-Lemkin, Ellen and Kyllikki Rytov. “An Ethic of Rhetorical Touch: Intentional Strategies for Embodied Teaching.” (In Progress)'}</p>
 
       <h6>{'Conference Presentations'}</h6>
-      <p>{'“Considering Collaboration through a Disability Perspective.”'} <i>{' Feminisms and Rhetorics.'}</i> {' Harrisonburg, VA. November 2019.'}</p>
+      <p>
+        <a href='/scholarship/femrhetpresentationtranscript.pdf' target='_blank'>
+          {'“'}
+          <u>
+            {'Considering Collaboration through a Disability Perspective'}
+          </u>
+          {'.”'}
+        </a>
+        <i>{' Feminisms and Rhetorics.'}</i> {' Harrisonburg, VA. November 2019'}
+      </p>
       <p>{'“Writing Together: Students’ Perceptions on Collaboration.”'} <i>{' Thomas R. Watson Conference.'}</i> {' Louisville, KY. October 2018.'}</p>
       <p>{'“Have Dog, Will Tutor: An Autoethnographic Account of Tutoring with a Service Animal.”'} <i>{' International Writing Center Association Annual Conference.'}</i> {' Atlanta, GA. October 2018.'}</p>
       <p>{'“Human-Animal Entanglements: Reflections on Training a Service Animal.”'} <i>{' Critical Disability Studies Student Association Conference.'}</i> {' York University, Canada. April 2018.'}</p>

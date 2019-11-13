@@ -14,6 +14,8 @@ import '../observations/oct262016tutor.pdf'
 import '../observations/feb122016teaching.pdf'
 import '../observations/margaretstudentfeedback.pdf'
 
+import '../scholarship/femrhetpresentationtranscript.pdf'
+
 import '../enc2135course/activity1.pdf'
 import '../enc2135course/activity2.pdf'
 import '../enc2135course/activity3.pdf'

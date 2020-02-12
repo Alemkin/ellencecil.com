@@ -3,8 +3,12 @@ import './index.scss'
 
 const Teaching = () =>
   <main className='student-feedback mt-4 page-wrapper' tag={'main'}>
+    {/* <img className='w-100 mb-4' title='Ellen and Rosie in front of a group of her students' alt='Ellen and ROsie kneel in front of a large group of students facing the camera, smiling' src={require('../../../images/feedbackgroup.jpg')} /> */}
     <h2 className='mb-4'>{'Student Feedback'}</h2>
-    <a href='/observations/margaretstudentfeedback.pdf' target='_blank'>{'Course Feedback from Margaret Bell'}</a>
+    <ul>
+      <li><a href='/observations/margaretstudentfeedback.pdf' target='_blank'>{'Course Feedback from Margaret Bell'}</a></li>
+      <li><a href='/observations/kaylastudentfeedback.pdf' target='_blank'>{'Course Feedback from Kayla M. Walston'}</a></li>
+    </ul>
     <h5 className='mt-4'>{'From Course Evaluations'}</h5>
     <h6>{'ENC 2135, Florida State University, 2015-2016:'}</h6>
     <ul>

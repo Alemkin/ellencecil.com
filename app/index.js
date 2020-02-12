@@ -13,6 +13,7 @@ import '../observations/nov302017tutor.pdf'
 import '../observations/oct262016tutor.pdf'
 import '../observations/feb122016teaching.pdf'
 import '../observations/margaretstudentfeedback.pdf'
+import '../observations/kaylastudentfeedback.pdf'
 
 import '../scholarship/femrhetpresentationtranscript.pdf'
 

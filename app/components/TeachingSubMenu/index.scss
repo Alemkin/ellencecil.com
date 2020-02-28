@@ -9,11 +9,11 @@
       color: $themeAccentColor;
     }
 
-    @media only screen and (max-width: 767px) {
+    @media only screen and (max-width: 768px) {
       display: block;
     }
 
-    @media only screen and (min-width: 768px) {
+    @media only screen and (min-width: 769px) {
       margin-right: 3rem;
     }
 

@@ -36,6 +36,7 @@ const CurriculumVitae = () =>
         </span>
       </p>
       <p>{'Cecil-Lemkin, Ellen, Jennifer Enoch, Megan Keaton, and Travis Maynard. “Archival Internships as Techne: Teaching the Archive through the Museum of Everyday Writing’s Undergraduate Internship.” Teaching Rhetoric and Composition Through the Archives, edited by Tarez Samra Graban and Wendy Hayden. (Accepted Manuscript)'}</p>
+      <p>{'Anglesey, Leslie and Ellen Cecil-Lemkin. “The Importance of Keeping Conference Quiet Rooms Quiet.” College Composition and Communication. (Invited; Manuscript Accepted)'}</p>
       <p>{'Cecil-Lemkin, Ellen and Michael Neal. “Moving Towards Accessibility: Addressing Two Myths of Universal Access in Online Instruction.” (Proposal Accepted)'}</p>
       <p>{'Cecil-Lemkin, Ellen. “Human-Animal Entanglements: Navigating Access with an Emotional Support Animal.” (Under Review)'}</p>
       <p>{'Cecil-Lemkin, Ellen. “Managing Power: Collaborative Models of Writing Program Administration.” (In Progress)'}</p>

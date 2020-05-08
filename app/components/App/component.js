@@ -11,6 +11,7 @@ import Teaching from '../Teaching'
 import TeachingSubMenu from '../TeachingSubMenu'
 import Observations from '../Observations'
 import DiversityStatement from '../DiversityStatement'
+import TeachingPhilosophy from '../TeachingPhilosophy'
 import StudentFeedback from '../StudentFeedback'
 import ENC2135 from '../ENC2135'
 import ENC3493 from '../ENC3493'
@@ -34,6 +35,7 @@ const App = () =>
             <Route exact path='/scholarship' component={Scholarship} />
             <Route exact path='/cv' component={CurriculumVitae} />
             <Route exact path='/teaching' component={Teaching} />
+            <Route exact path='/teaching/teachingphilosophy' component={TeachingPhilosophy} />
             <Route exact path='/teaching/diversitystatement' component={DiversityStatement} />
             <Route exact path='/teaching/observations' component={Observations} />
             <Route exact path='/teaching/feedback' component={StudentFeedback} />

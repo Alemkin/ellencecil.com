@@ -11,6 +11,7 @@ const MenuLink = ({ route, title, currentRoute }) =>
 const TeachingSubMenu = ({ location }) =>
   <nav className='teaching-sub-menu-links text-center'>
     <MenuLink currentRoute={location.pathname} route='/teaching/diversitystatement' title='Diversity Statement' />
+    <MenuLink currentRoute={location.pathname} route='/teaching/teachingphilosophy' title='Teaching Philosophy' />
     <MenuLink currentRoute={location.pathname} route='/teaching/observations' title='Observations' />
     <MenuLink currentRoute={location.pathname} route='/teaching/feedback' title='Student Feedback' />
     <MenuLink currentRoute={location.pathname} route='/teaching/2135' title='ENC 2135' />

@@ -9,7 +9,7 @@ const CurriculumVitae = () =>
 
       <h6>{'Education'}</h6>
       <p>
-        {'Ph.D., Rhetoric and Composition — Florida State University — Spring 2020 (expected)'}
+        {'Ph.D., Rhetoric and Composition — Florida State University — Spring 2020'}
         <span className='d-block'>{'Dissertation: '}<i>{'Including Disability in Collaborative Writing Pedagogy'}</i></span>
       </p>
       <p>
@@ -215,8 +215,8 @@ const CurriculumVitae = () =>
       </div>
 
       <h6>{'Service'}</h6>
-      <p>{'Accessibility Committee Member, Writing Program Administrators—Graduate Organization, Sept. 2019 – Present'}</p>
-      <p>{'Ambassador, Student Disability Resource Center, Florida State University, Jan. 2019 – Present'}</p>
+      <p>{'Accessibility Committee Member, Writing Program Administrators—Graduate Organization, Sept. 2019 – May 2020'}</p>
+      <p>{'Ambassador, Student Disability Resource Center, Florida State University, Jan. 2019 – May 2020'}</p>
       <p>{'Diversity and Outreach Committee Member, Writing Program Administrators—Graduate Organization, Aug. 2018 – Aug. 2019'}</p>
       <p>{'Committee Member, Reading-Writing Center Committee, Florida State University, Aug. 2017 – Aug. 2018'}</p>
       <p>{'Volunteer, National Day on Writing, Florida State University, Oct. 2016, 2017, 2018'}</p>
@@ -229,7 +229,7 @@ const CurriculumVitae = () =>
       <p>
         <span className='d-block'>{'FSU Star Student, Sept. 2019'}</span>
         <span className='d-block'>{'Spencer Foundation Award Recipient, 2019'}</span>
-        <span className='d-block'>{'FSU English Graduate Assistantship, 2015—present'}</span>
+        <span className='d-block'>{'FSU English Graduate Assistantship, 2015 — 2020'}</span>
         <span className='d-block'>{'FSU Gates Fellowship, 2015—2019'}</span>
         <span className='d-block'>{'MU English Graduate Assistantship, 2013—2015'}</span>
       </p>

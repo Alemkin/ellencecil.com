@@ -27,7 +27,7 @@ const CurriculumVitae = () =>
         {'Cecil, Ellen. “'}
         <a href='https://writingandrhetoric.cah.ucf.edu/stylus/files/1_2/stylus1_2-cecil.pdf' target='_blank'>
           <u>
-            {'Review of Literature for ‘What Interests Students in Recreational Reading?’'}
+            {'Review of Literature for ‘What Interests Students in Recreational Reading?'}
           </u>
         </a>
         {'”'}
@@ -35,20 +35,26 @@ const CurriculumVitae = () =>
           <i>{'Stylus: A Journal of First Year Writing'}</i>{', vol. 1, no. 2, 2010, pp. 10-12. (Non-peer Reviewed)'}
         </span>
       </p>
+      <p>{'Anglesey, Leslie and Ellen Cecil-Lemkin. “'}
+        <a href='https://library.ncte.org/journals/ccc/issues/v72-1/30892' target='_blank'>
+          <u>
+            {'The Importance of Keeping Conference Quiet Rooms Quiet.'}
+          </u>
+        </a>
+        {'”'}
+        <i>{'College Composition and Communication'}</i>
+      </p>
       <p>{'Cecil-Lemkin, Ellen, Jennifer Enoch, Megan Keaton, and Travis Maynard. “Archival Internships as Techne: Teaching the Archive through the Museum of Everyday Writing’s Undergraduate Internship.”'}
         <i>{'Teaching Rhetoric and Composition Through the Archives'}</i>
         {', edited by Tarez Samra Graban and Wendy Hayden. (Accepted Manuscript)'}
       </p>
-      <p>{'Anglesey, Leslie and Ellen Cecil-Lemkin. “The Importance of Keeping Conference Quiet Rooms Quiet.”'}
-        <i>{'College Composition and Communication'}</i>
-        {'. (Invited; Manuscript Accepted)'}
-      </p>
-      <p>{'Cecil-Lemkin, Ellen and Michael Neal. “Moving Towards Accessibility: Addressing Two Myths of Universal Access in Online Instruction.” (Proposal Accepted)'}</p>
       <p>{'Cecil-Lemkin, Ellen. “Human-Animal Entanglements: Navigating Access with an Emotional Support Animal.” (Under Review)'}</p>
       <p>{'Cecil-Lemkin, Ellen. “Managing Power: Collaborative Models of Writing Program Administration.” (In Progress)'}</p>
       <p>{'Cecil-Lemkin, Ellen and Kyllikki Rytov. “An Ethic of Rhetorical Touch: Intentional Strategies for Embodied Teaching.” (In Progress)'}</p>
 
       <h6>{'Conference Presentations'}</h6>
+      <p>{'“Building Accessibility in Collaborative Writing Pedagogy.”'} <i>{' Conference on College Composition and Communication.'}</i> {' Spokane, WA. April 2021. (Forthcoming)'}</p>
+      <p>{'“Academic Ableism: Interrogating Common Tropes of Ability on Campus.”'} <i>{' Conference on College Composition and Communication.'}</i> {' Milwaukee, WI. March 2020. (Cancelled due to COVID-19)'}</p>
       <p>
         <a href='/scholarship/femrhetpresentationtranscript.pdf' target='_blank'>
           {'“'}
@@ -215,6 +221,7 @@ const CurriculumVitae = () =>
       </div>
 
       <h6>{'Service'}</h6>
+      <p>{'Reviewer, Writing Spaces 4th edition, Fall 2020'}</p>
       <p>{'Accessibility Committee Member, Writing Program Administrators—Graduate Organization, Sept. 2019 – May 2020'}</p>
       <p>{'Ambassador, Student Disability Resource Center, Florida State University, Jan. 2019 – May 2020'}</p>
       <p>{'Diversity and Outreach Committee Member, Writing Program Administrators—Graduate Organization, Aug. 2018 – Aug. 2019'}</p>
@@ -244,6 +251,10 @@ const CurriculumVitae = () =>
         <i>{'Memberships:'}</i>
         <span className='d-block'>{'National Council of Teachers of English – CCC'}</span>
         <span className='d-block'>{'International Writing Centers Association'}</span>
+      </p>
+      <p>
+        <i>{'Certifications:'}</i>
+        <span className='d-block'>{'Basic Online Literacy Instruction Course, Global Society of Online Literacy Educators, Fall 2020 (In Progress)'}</span>
       </p>
     </Col>
   </Row>

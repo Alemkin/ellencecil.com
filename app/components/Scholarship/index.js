@@ -6,97 +6,18 @@ const WritingCenter = () =>
   <Row className='scholarship mt-4 page-wrapper' tag={'main'}>
     <Col xs={12} xl={6}>
       <h1>{'Scholarship'}</h1>
-
-      <h6><b>{'Disability'}</b></h6>
-      <p>{'Cecil-Lemkin, Ellen. “Human-Animal Entanglements: Navigating Access with an Emotional Support Animal.” (Under Review)'}</p>
-      <p>{'Cecil-Lemkin, Ellen and Michael Neal. “Moving Towards Accessibility: Addressing Two Myths of Universal Access in Online Instruction.” (Proposal Accepted)'}</p>
       <p>
-        <a href='/scholarship/femrhetpresentationtranscript.pdf' target='_blank'>
-          {'“'}
-          <u>
-            {'Considering Collaboration through a Disability Perspective'}
-          </u>
-          {'.”'}
-        </a>
-        {' Feminisms and Rhetorics. Harrisonburg, VA. November 2019'}
-      </p>
-      <p>{'“Have Dog, Will Tutor: An Autoethnographic Account of Tutoring with a Service Animal.” International Writing Center Association Annual Conference. Atlanta, GA. October 2018.'}</p>
-      <p>{'“Human-Animal Entanglements: Reflections on Training a Service Animal.” Critical Disability Studies Student Association Conference. York University, Canada. April 2018.'}</p>
-      <p>{'“Restrictions on Language for a Disabled Graduate Student.” Conference on College Composition and Communication. Kansas City, MO. March 2018.'}</p>
-      <p>{'“Madness in Academia: Stories and Sense-making from Neurodiverse Perspectives.” Disability Roundtable. Survive &amp; Thrive. Online. April 2017.'}</p>
-
-      <h6><b>{'Collaboration'}</b></h6>
-      <p>{'“Writing Together: Students’ Perceptions on Collaboration.” Thomas R. Watson Conference. Louisville, KY. October 2018.'}</p>
-      <p>
-        <a href='https://prezi.com/view/cveTGJGGGHRSORxFg0Vc/' target='_blank'>
-          {'“'}
-          <u>
-            {'Graduate Students Digitally Collaborating'}
-          </u>
-          {'.”'}
-        </a>
-        {'Computers and Writing. Findlay, Ohio. June 2017'}
+        {'My research agenda focuses on questions related to disability and collaboration, with the goal of creating and maintaining accessible environments for disabled students and academics. While much of the accessibility research in composition emphasizes physical disabilities such as sight, hearing, or mobility, my work examines ways in which writing studies has ignored the experiences of neurodivergent (e.g., anxiety, depression, autism, ADHD, and other related disabilities) individuals. My work is greatly informed by both Jay Dolmage’s and Margaret Price’s scholarship, in which we consider how academic systems can exclude and marginalize disabled individuals. My scholarship is informed by my own experiences as a disabled academic and my desire to advocate for accessibility in higher education. This interest has informed my dissertation project and lines of inquiry that I will continue to explore in the future.'}
       </p>
       <p>
-        <a href='https://drive.google.com/open?id=1vxweGqm_46fJwYSLSA1JD6N5hC7Vwl2jfLWG5psiGxc' target='_blank'>
-          {'“'}
-          <u>
-            {'Writing Communities Across Boundaries: Student Experiences with Digital Collaboration'}
-          </u>
-          {'.”'}
-        </a>
-        {'Computers and Writing. Rochester, New York. May 2016.'}
-      </p>
-      <p>{'“Digital Collaboration and Graduate Students.” Graduate Research Network. Rochester, NY. May 2016.'}</p>
-      <p>
-        <a href='https://buildingcollaborativecommunities.wordpress.com/' target='_blank'>
-          {'“'}
-          <u>
-            {'Building Collaborative Communities: Empowering Students through Community-Engaged Writing'}
-          </u>
-          {'.”'}
-        </a>
-        {'Conference on Community Writing. Boulder, Colorado. October 2015.'}
+        {'My dissertation, Including Disability in Collaborative Writing Pedagogy, features disabled students’ voices as they describe their experiences with collaborative learning and writing in the classroom and reimagine a structure that is more accessible to their abilities. In order to better understand these students’ experiences, I conducted interviews and surveys while using Margaret Price and Stephanie Kerschbaum’s (2016) Interdependent Disability Studies Methodology to guide my data collection and analysis. My results have yielded important insights that will serve as the foundation for several projects. To begin with, I am currently working on an article that will explore how to build what Elizabeth Brewer and colleagues (2014) call a “culture of access” in first-year composition courses with the inclusion of collaborative assignments. Additionally, this research will also be used to inform my upcoming co-authored chapter in the fifth edition of Writing Spaces. This chapter will explore techniques and technologies students can use to collaborate effectively with one another.'}
       </p>
       <p>
-        <a href='https://docs.google.com/document/d/1UlMnJdxcw8_qmAJS0EP2jQL_YsrPP0xI0pAkqWREAwA/edit?usp=sharing' target='_blank'>
-          {'“'}
-          <u>
-            {'Creating Connections: Student Perceptions of Collaboration in First-Year Writing Classrooms'}
-          </u>
-          {'.”'}
-        </a>
-        {'Qualitative Research Network. Tampa, Florida. March 2015.'}
+        {'My immediate plan is to expand the scope of this research into a cross-institutional study that will lead to several outcomes, both shorter and longer publications. A cross-institutional study would allow me to achieve three things that were outside the scope of my dissertation. First, it would allow me to better understand how issues of race, gender, and type of disability impact neurodivergent students’ experiences with collaboration. My study was focused on individuals within one program, which provided deep insight into specific students’ experiences, but the sample size lacked some key demographics. By broadening the population, the study’s claims can become more generalizable to programs outside one particular institution. Second, it would allow me to examine more closely how instructors teach collaboration. My project explored students’ perceptions and experiences with classroom collaborative writing, which left me questioning how instructors incorporated collaboration and how they perceived the support they offered. A clearer understanding of how instructors incorporate and support collaboration in their classrooms can lead to targeted interventions to improve collaborative assignments. Third, it would enable an exploration of how neurodivergent students conceptualize their disability identity and whether or not they register for disability services. The results of my research showed that while neurodivergent students fall under the category of disabled, many of them do not identify with that label. Collecting information on this topic will help us better understand the identity formation of neurodivergent students and determine what kind of support they need. These studies combined can give us a broader view of how students navigate the university with disabilities and how instructors can better support their disabled students.'}
       </p>
       <p>
-        <a href='https://docs.google.com/presentation/d/17SjIURnNqxSFFbaZHliC72FSYg1lbPUSZ9jOYLsJM5w/edit?usp=sharing' target='_blank'>
-          {'“'}
-          <u>
-            {'Navigating Student Collaborative Spaces'}
-          </u>
-          {'.”'}
-        </a>
-        {'MEGAA Symposium. Oxford, Ohio. March 2015.'}
+        {'I am also invested in exploring topics related to increasing the accessibility of environments outside of the classroom. For example, I was invited to contribute to a recent College Composition and Communication’s symposium on conference accessibility. In this piece, my coauthor and I advocated for the inclusion and respect of quiet rooms (i.e., rooms set aside with the intended purpose to provide safe spaces for individuals who experience sensory overload) in conferences. In conjunction with the other essays, we argued for the value of conference accessibility and articulated the work that still needs to be done by conference organizers. In addition to that piece, I also have an article that I am in the process of revising for resubmission to College Composition and Communication which delves deeper into graduate students’ positionality and conference accessibility. For future projects, I envision that I will continue exploring ways that we can make the field of writing studies more accessible by expanding my research to consider other writing study spaces such as writing centers and graduate programs.'}
       </p>
-
-      <h6><b>{'Writing Programs'}</b></h6>
-      <p>{'Cecil-Lemkin, Ellen, Jennifer Enoch, Megan Keaton, and Travis Maynard. “Archival Internships as Techne: Teaching the Archive through the Museum of Everyday Writing’s Undergraduate Internship.” Teaching Rhetoric and Composition Through the Archives, edited by Tarez Samra Graban and Wendy Hayden. (Accepted Manuscript)'}</p>
-      <p>{'Cecil-Lemkin, Ellen. “Managing Power: Collaborative Models of Writing Program Administration.” (In Progress)'}</p>
-      <p>{'“Decoding [Academic] Systems: Writing Centers as Mentorship Sites." International Writing Center Association Annual Conference. Chicago, IL. November 2017.'}</p>
-      <p>
-        <a href='https://drive.google.com/open?id=1OwkwgGStU6fztGIJO3ZpIyZ4PdcIjCceOd0mp7K8UOA' target='_blank'>
-          {'“'}
-          <u>
-            {'Cultivating Collaboration and Distributing Power in Writing Program Administration'}
-          </u>
-          {'.”'}
-        </a>
-        {'Conference on College Composition and Communication. Portland, Oregon. March 2017.'}
-      </p>
-
-      <h6><b>{'Embodied Rhetoric'}</b></h6>
-      <p>{'Cecil-Lemkin, Ellen and Kyllikki Rytov. “An Ethic of Rhetorical Touch: Intentional Strategies for Embodied Teaching.” (In Progress)'}</p>
-      <p>{'"Invoking the Body: Touch and Making Meaning." Feminisms and Rhetorics. Dayton, OH. October 2017.'}</p>
     </Col>
     <Col xs={12} xl={6} className='text-center'>
       <img className='mb-4 mr-4' title='4 Happy Scholars' alt='Ellen sits to the left of two other scholars behind a table, smiling at the camera. Another scholar is projected up on screen in a video call.' src={require('../../../images/4sittingscholars.png')} />

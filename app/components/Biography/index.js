@@ -11,8 +11,10 @@ const Biography = () =>
       <h4>{'Disability and Collaboration Scholar in Rhetoric and Composition'}</h4>
       <br />
       <p>
-        <a href='mailto:emc15j@my.fsu.edu'>{'emc15j@my.fsu.edu'}</a>
+        <a href='mailto:ececil@fsu.edu'>{'ececil@fsu.edu'}</a>
       </p>
+      {'(She/Her)'}
+      <p />
       <p>
         {'My research agenda focuses on creating accessible environments with an emphasis on collaborative spaces for disabled students. While much of the accessibility research in composition emphasizes physical disabilities such as sight, hearing, or mobility, my project examines ways in which collaboration in composition classrooms has ignored the experiences of neurodiverse students, which includes anxiety, depression, autism, ADHD, and other related disabilities. As these disabilities tend to be more private, my own experiences as neurodiverse have become visible through my use of a service animal. This increased visibility has resulted in my public identification as disabled as well as my advocacy for other disabled academics and students (see my '}
         <a href='https://news.fsu.edu/student-stars/2019/09/01/ellen-cecil-lemkin/' target='_blank'>{'Star Student article'}</a>

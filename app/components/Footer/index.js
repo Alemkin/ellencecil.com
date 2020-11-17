@@ -5,7 +5,7 @@ const Footer = () =>
     <p>
       <sub>
         {'I am committed to making this site as accessible as possible. If you need the content delivered in a different format please email me:'}
-        <a className='d-block' href='mailto:emc15j@my.fsu.edu'>{'emc15j@my.fsu.edu'}</a>
+        <a className='d-block' href='mailto:ececil@fsu.edu'>{'ececil@fsu.edu'}</a>
       </sub>
     </p>
   </footer>

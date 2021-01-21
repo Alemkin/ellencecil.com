@@ -11,7 +11,7 @@ const Biography = () =>
       <h4>{'Disability and Collaboration Scholar in Rhetoric and Composition'}</h4>
       <br />
       <p>
-        <a href='mailto:ececil@fsu.edu'>{'ececil@fsu.edu'}</a>
+        <a href='mailto:cecillemkin@wisc.edu'>{'cecillemkin@wisc.edu'}</a>
       </p>
       {'(She/Her)'}
       <p />

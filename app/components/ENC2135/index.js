@@ -32,6 +32,10 @@ const ENC2135 = () =>
         <li><a href='/enc2135course/activity2.pdf' target='_blank'>{'Topic Generator'}</a></li>
         <li><a href='/enc2135course/activity3.pdf' target='_blank'>{'Concept Mapping'}</a></li>
       </ul>
+      <div>{'Recent Student Evaluations'}</div>
+      <ul>
+        <li><a href='/enc2135course/evaluation1.pdf' target='_blank'>{'2020 Fall Course Eval'}</a></li>
+      </ul>
     </Col>
   </Row>
 

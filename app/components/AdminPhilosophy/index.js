@@ -1,0 +1,23 @@
+import React from 'react'
+
+const AdminPhilosphy = () =>
+  <main className='administration-philosophy mt-4 page-wrapper'>
+    <h2 className='mb-4'>{'Administration Philosophy'}</h2>
+    <p>
+      When I was first starting out as a writing tutor, I remember leaving particularly challenging sessions feeling both frustrated and determined. I wanted to improve my tutoring abilities and learn different approaches that I could employ in future sessions, so I frequently sought out both my director and peers to discuss these sessions. In the break room or director’s office, I would reflect on the experience, listen to my peers share how they navigated similar challenges, and brainstorm different topics to research with my director. These formative moments continue to inform how I approach writing center administration and underscore my core value as an administrator: collaboration.
+    </p>
+    <p>
+      I see the tutors that I’ve trained and work with as collaborators—meaning that I believe that we can each learn from one another to improve our tutoring services and find answers to complex problems—which is why I believe having a diverse staff is crucial to the success of a writing center. Working with stakeholders across campus to identify and recruit diverse students (international, disabled, first-generation, athletes, multilingual, etc.) is the first step in creating a writing center environment that supports inquiry and growth. Tutor training, however, is equally important to fostering this goal.
+    </p>
+    <p>
+      During my time training tutors, I focused heavily on student-driven inquiry. During my time teaching ENC 3493: Peer Tutoring in the Reading Writing Center and Digital Studio, my tutors investigated a writing center focused research question, taught their fellow tutors about their findings, and offered practical suggestions based on their research. I also provided structured opportunities for the class to select topics they wanted to learn about and created lessons around their interests. These approaches allowed students to become active participants in their learning and share their knowledge as both tutors and developing researchers. In this way, I supported my tutors into becoming collaborators rather than static receptacles of writing theory. Finally, since the writing center works with a range of students, I highlighted many inclusivity topics in my course. For example, I taught tutors about universal design for learning (an approach that emphasizes creating learning environments accessible to as wide a range of learners as possible) as a way for working with disabled students. As these can also benefit a wide range of non-disabled students, many tutors found themselves drawing on these strategies throughout their sessions. Treating writing center tutors as collaborators from the beginning of their training models the collaborative nature of writing center sessions, which can result in stronger sessions and tutors.
+    </p>
+    <p>
+      My approach to fostering collaboration in the writing center also extends to my work with faculty and staff from different offices across the university. Like students who attend sessions at the writing center, they have expertise that they bring with them that can lead to stronger writing knowledge and outcomes for the students we serve. To this end, I have worked with faculty across campus to create writing bridges into their courses. By approaching faculty as collaborators, it often creates opportunities to discuss what “good” writing looks like to them, what skills students need to have to achieve this type of writing, and how to compose prompts that articulate desired outcomes. As a result of these efforts, students benefit from clear assignment prompts and lessons on skills they need to complete the assignment, which can result in higher retention rates of at-risk students.
+    </p>
+    <p>
+      I have also applied this approach to working with different offices across the university. For example, after noticing that students were being sent over from Career Services to edit their resumes, I worked with the administrators and staff to educate them on the services our writing center offered and to develop ways our two centers could work together to support the career development of students. By approaching Career Services as a collaborator, I was able to expand our tutors’ ability to help students with career documents, increase understanding of the services that we offered, and determine ways that we could work collaboratively to better serve students.
+    </p>
+  </main>
+
+export default AdminPhilosphy

@@ -1,7 +1,7 @@
 import React from 'react'
 
 const DiversityStatement = () =>
-  <main className='diversity-statement mt-4 page-wrapper'>
+  <main className='teaching-philosophy mt-4 page-wrapper'>
     <h2 className='mb-4'>{'Teaching Philosophy'}</h2>
     <p>
           As a teacher, I believe that students learn best in an environment where they can feel comfortable

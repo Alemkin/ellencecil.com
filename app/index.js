@@ -25,12 +25,18 @@ import '../enc2135course/sample1.pdf'
 import '../enc2135course/sample2.pdf'
 import '../enc2135course/sample3.pdf'
 import '../enc2135course/syllabus.pdf'
+import '../enc2135course/evaluation1.pdf'
 
 import '../enc3493course/calendar.pdf'
 import '../enc3493course/sample1.pdf'
 import '../enc3493course/sample2.pdf'
 import '../enc3493course/sample3.pdf'
 import '../enc3493course/syllabus.pdf'
+
+import '../enc3416course/calendar.pdf'
+import '../enc3416course/syllabus.pdf'
+import '../enc3416course/sample1.pdf'
+import '../enc3416course/sample3.pdf'
 
 import { initTranslator } from './utils/translate'
 initTranslator()

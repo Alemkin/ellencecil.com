@@ -15,7 +15,7 @@ const TeachingSubMenu = ({ location }) =>
     <MenuLink currentRoute={location.pathname} route='/teaching/observations' title='Observations' />
     <MenuLink currentRoute={location.pathname} route='/teaching/feedback' title='Student Feedback' />
     <MenuLink currentRoute={location.pathname} route='/teaching/2135' title='ENC 2135' />
-    <MenuLink currentRoute={location.pathname} route='/teaching/3493' title='ENC 3493' />
+    <MenuLink currentRoute={location.pathname} route='/teaching/3416' title='ENC 3416' />
   </nav>
 
 export default withRouter(TeachingSubMenu)

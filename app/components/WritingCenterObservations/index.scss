@@ -1,0 +1,11 @@
+@import "../../style/variables.scss";
+
+.writing-center-observations {
+  a {
+    color: $themeAccentColor;
+
+    &:hover {
+      color: darken($themeAccentColor, 20%);
+    }
+  }
+}

@@ -10,15 +10,10 @@ import CurriculumVitae from '../CurriculumVitae'
 import Teaching from '../Teaching'
 import TeachingSubMenu from '../TeachingSubMenu'
 import WritingCenterSubMenu from '../WritingCenterSubMenu'
-import Observations from '../Observations'
-import DiversityStatement from '../DiversityStatement'
 import TeachingPhilosophy from '../TeachingPhilosophy'
 import StudentFeedback from '../StudentFeedback'
-import WritingCenterObservations from '../WritingCenterObservations'
-import AdminPhilosophy from '../AdminPhilosophy'
 import TutorTraining from '../TutorTraining'
 import ENC2135 from '../ENC2135'
-import ENC3416 from '../ENC3416'
 import NotFound from '../NotFound'
 import './index.scss'
 
@@ -37,18 +32,13 @@ const App = () =>
           <Switch>
             <Route exact path='/' component={Biography} />
             <Route exact path='/writingcenter' component={WritingCenter} />
-            <Route exact path='/writingcenter/admin' component={AdminPhilosophy} />
-            <Route exact path='/writingcenter/observations' component={WritingCenterObservations} />
             <Route exact path='/writingcenter/tutor' component={TutorTraining} />
             <Route exact path='/scholarship' component={Scholarship} />
             <Route exact path='/cv' component={CurriculumVitae} />
             <Route exact path='/teaching' component={Teaching} />
             <Route exact path='/teaching/teachingphilosophy' component={TeachingPhilosophy} />
-            <Route exact path='/teaching/diversitystatement' component={DiversityStatement} />
-            <Route exact path='/teaching/observations' component={Observations} />
             <Route exact path='/teaching/feedback' component={StudentFeedback} />
             <Route exact path='/teaching/2135' component={ENC2135} />
-            <Route exact path='/teaching/3416' component={ENC3416} />
             <Route path='' component={NotFound} />
           </Switch>
         </Col>

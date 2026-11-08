@@ -10,9 +10,7 @@ const MenuLink = ({ route, title, currentRoute }) =>
 
 const WritingCenterSubMenu = ({ location }) =>
   <nav className='writing-center-sub-menu-links text-center'>
-    <MenuLink currentRoute={location.pathname} route='/writingcenter/admin' title='Administration Philosophy' />
-    <MenuLink currentRoute={location.pathname} route='/writingcenter/observations' title='Observations' />
-    <MenuLink currentRoute={location.pathname} route='/writingcenter/tutor' title='Tutor Training' />
+    <MenuLink currentRoute={location.pathname} route='/writingcenter/tutor' title='Undergraduate Tutor Training' />
   </nav>
 
 export default withRouter(WritingCenterSubMenu)

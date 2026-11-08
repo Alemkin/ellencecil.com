@@ -1,6 +1,6 @@
 import React from 'react'
 
-const DiversityStatement = () =>
+const TeachingPhilosophy = () =>
   <main className='teaching-philosophy mt-4 page-wrapper'>
     <h2 className='mb-4'>{'Teaching Philosophy'}</h2>
     <p>
@@ -107,4 +107,4 @@ const DiversityStatement = () =>
     </p>
   </main>
 
-export default DiversityStatement
+export default TeachingPhilosophy

@@ -4,9 +4,6 @@ import App from './components/App'
 import { BrowserRouter } from 'react-router-dom'
 
 import '../images/favicon.ico'
-import '../observations/nov302017tutor.pdf'
-import '../observations/oct262016tutor.pdf'
-import '../observations/feb122016teaching.pdf'
 import '../observations/margaretstudentfeedback.pdf'
 import '../observations/kaylastudentfeedback.pdf'
 import '../observations/haleighocfeedback.pdf'
@@ -30,11 +27,6 @@ import '../enc3493course/sample1.pdf'
 import '../enc3493course/sample2.pdf'
 import '../enc3493course/sample3.pdf'
 import '../enc3493course/syllabus.pdf'
-
-import '../enc3416course/calendar.pdf'
-import '../enc3416course/syllabus.pdf'
-import '../enc3416course/sample1.pdf'
-import '../enc3416course/sample3.pdf'
 
 import { initTranslator } from './utils/translate'
 initTranslator()

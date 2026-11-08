@@ -11,6 +11,9 @@ const Teaching = () =>
           <ul>
             <li><a href='/observations/margaretstudentfeedback.pdf' target='_blank'>{'Course Feedback from Margaret Bell'}</a></li>
             <li><a href='/observations/kaylastudentfeedback.pdf' target='_blank'>{'Course Feedback from Kayla M. Walston'}</a></li>
+            <li><a href='/observations/sierrafoxfeedback.pdf' target='_blank'>{'Course Feedback from Sierra Fox'}</a></li>
+            <li><a href='/observations/haleighocfeedback.pdf' target='_blank'>{'Course Feedback from Haleigh J. Ortmeier-Clarke'}</a></li>
+            <li><a href='/observations/laurastoeszfeedback.pdf' target='_blank'>{'Course Feedback from Laura Stoesz'}</a></li>
           </ul>
         </Col>
         <Col xs={12} md={7}>

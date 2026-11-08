@@ -9,6 +9,9 @@ import '../observations/oct262016tutor.pdf'
 import '../observations/feb122016teaching.pdf'
 import '../observations/margaretstudentfeedback.pdf'
 import '../observations/kaylastudentfeedback.pdf'
+import '../observations/haleighocfeedback.pdf'
+import '../observations/laurastoeszfeedback.pdf'
+import '../observations/sierrafoxfeedback.pdf'
 
 import '../scholarship/femrhetpresentationtranscript.pdf'
 

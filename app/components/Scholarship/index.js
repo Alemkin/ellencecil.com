@@ -10,27 +10,21 @@ const WritingCenter = () =>
         {"My research examines the intersections of disability, institutions, and the contexts in which people make meaning. Primarily, I've looked at neurodivergent people making meaning through writing within the institution of higher education. For example, my forthcoming, coauthored chapter “Crip Collaboration: How Disabled Scholars Co-create Knowledge” examines the reasons disabled and neurodivergent scholars choose to write collaboratively, often despite institutional barriers to collaboration. Additionally, I’ve explored how neurodivergent undergraduate students navigate collaborative writing projects in my article, “Expanding Access in Collaborative Writing Pedagogy.” For future projects, I plan to expand my scope to consider accessibility in institutions beyond higher education."}
       </p>
       <p>
-        {"You can read my published scholarship in PDF format  by clicking on the links."}
+        {'You can read my published scholarship in PDF format  by clicking on the links.'}
       </p>
       <p>
-        {"Inviting Disability into the TPC Classroom"}
-        <br/>
         <a href='https://1drv.ms/b/c/6b23d4e8ab261832/IQAru30ojJxpSK06lo7lnVsHATMGp1kLS8kQu65uCPt0XzE?e=ACfmEX' target='_blank' rel='noopener noreferrer'>
-          (https://1drv.ms/b/c/6b23d4e8ab261832/IQAru30ojJxpSK06lo7lnVsHATMGp1kLS8kQu65uCPt0XzE?e=ACfmEX)
+          Inviting Disability into the TPC Classroom
         </a>
       </p>
       <p>
-        {"Keeping Quiet Rooms Quiet"}
-        <br/>
         <a href='https://1drv.ms/b/c/6b23d4e8ab261832/IQAPkEXy5OZJRqagGXBdiq-cAXtIT453eAhk3Aa4-93dHLc?e=vkGxiu' target='_blank' rel='noopener noreferrer'>
-          (https://1drv.ms/b/c/6b23d4e8ab261832/IQAPkEXy5OZJRqagGXBdiq-cAXtIT453eAhk3Aa4-93dHLc?e=vkGxiu)
+          Keeping Quiet Rooms Quiet
         </a>
       </p>
       <p>
-        {"Expanding Access in Collaborative Writing Pedagogy"}
-        <br/>
         <a href='https://1drv.ms/b/c/6b23d4e8ab261832/IQAyGCar6NQjIIBrYlcAAAAAAdZKimSydP7uQA0VyhW32Aw?e=n1pqmQ' target='_blank' rel='noopener noreferrer'>
-          (https://1drv.ms/b/c/6b23d4e8ab261832/IQAyGCar6NQjIIBrYlcAAAAAAdZKimSydP7uQA0VyhW32Aw?e=n1pqmQ)
+          Expanding Access in Collaborative Writing Pedagogy
         </a>
       </p>
     </Col>

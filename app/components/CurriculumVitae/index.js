@@ -296,12 +296,7 @@ const CurriculumVitae = () =>
   <Row className='curriculum-vitae mt-4 page-wrapper' tag='main'>
     <Col xl={{ size: 10, offset: 1 }}>
       <header className='cv-header mb-4'>
-        <h1>{'Ellen Cecil-Lemkin'}</h1>
-        <a href='tel:2399081688'>(239) 908-1688</a>
-        {' | '}
-        <a href='mailto:cecillemkin@wisc.edu'>cecillemkin@wisc.edu</a>
-        {' | '}
-        <a href='https://ellencecil.com' target='_blank' rel='noopener noreferrer'>ellencecil.com</a>
+        <h1>{'Curriculum Vitae'}</h1>
       </header>
 
       <section>

@@ -10,7 +10,7 @@ import '../observations/haleighocfeedback.pdf'
 import '../observations/laurastoeszfeedback.pdf'
 import '../observations/sierrafoxfeedback.pdf'
 
-import '../scholarship/femrhetpresentationtranscript.pdf'
+import '../publications/femrhetpresentationtranscript.pdf'
 
 import '../enc2135course/activity1.pdf'
 import '../enc2135course/activity2.pdf'
